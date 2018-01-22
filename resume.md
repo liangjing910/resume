@@ -1,8 +1,8 @@
 ## 梁兢
 
-高级JAVA工程师
+高级JAVA工程师    硕士
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+毕业于华中科技大学软件工程专业，曾在华为、烽火科技、荆楚网就职，有多年JAVA开发经验及项目实战经验。
 
 ### Markdown
 
