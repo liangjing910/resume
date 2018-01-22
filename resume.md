@@ -1,37 +1,13 @@
-## 梁兢
+# 梁兢
 
-高级JAVA工程师         硕士
+高级JAVA工程师         硕士
 
 毕业于华中科技大学软件工程专业，曾在华为、烽火科技、荆楚网就职，有多年JAVA开发经验及项目实战经验。
 
-### Markdown
+## 项目经历
+### 教育大数据平台（高考志愿）
+* 描述：基于高考成绩智能推荐学校、专业和志愿，通过网络爬虫，在线抓取全国高校信息，包括专业信息、省份分数线、专业分数线、学校分数线、学校录取人数等数据。通过智能算法（华中师范大学提供），给考生推荐学校，专业。 
+* 职责：负责后台框架搭建，数据模型设计，核心功能模块开发，api设计与开发，api文档编写     
+* 技术：springboot+mysql+mybatis+restful+swagger2+shiro+maven 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liangjing910/liangjing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
